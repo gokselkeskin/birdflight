@@ -2,8 +2,10 @@
 
 ## Introduction
  ![Figure1](https://github.com/gokselkeskin/birdflight/assets/93776253/2f4d8533-0f3d-4afe-ae12-a3e67e2fea89)
+
 *Figure 1: Soaring birds rely on atmospheric updrafts, primarily known as thermals, to gain altitude (A). Subsequently, they utilize this gained height to cover distances without flapping their wings, a technique referred to as gliding (B), until they encounter the next thermal.* 
  ![Figure2](https://github.com/gokselkeskin/birdflight/assets/93776253/b7f1d685-22c0-4d98-98fd-b286ca325330)
+
 *Figure 2: A complete flight track of an individual Himalayan vulture from our dataset includes data from take-off to landing. The colour code indicates the bird's instantaneous vertical speed, with shades of yellow and red representing ascending flight and green and blue denoting descending flight.*
 
 This project involves experimenting with high-resolution GPS data of soaring birds, including falcons, eagles, and vultures, to analyse flight performance and behavioural differences among species. The primary objective is to explore the fixed-wing (non-flapping) flight performance of various bird species, with a focus on quantifying the gliding and thermalling components using GPS data. Another key goal is to investigate the influence of morphometry on the aerodynamics of bird flight. Additionally, you will be tasked with evaluating flight preferences, such as optimizing airspeed based on daily thermal strength. To complete this project, you will be expected to use Python and Flight 1.25 (Pennycuick, 2008) and follow the given literature. 
