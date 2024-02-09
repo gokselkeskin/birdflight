@@ -1,6 +1,6 @@
-**Analysing biologging data for understanding flight performance and behaviour** 
+#Analysing biologging data for understanding flight performance and behaviour 
 
-**Introduction**
+##Introduction
  
 *Figure 1: Soaring birds rely on atmospheric updrafts, primarily known as thermals, to gain altitude (A). Subsequently, they utilize this gained height to cover distances without flapping their wings, a technique referred to as gliding (B), until they encounter the next thermal.* 
  
@@ -10,14 +10,14 @@ This project involves experimenting with high-resolution GPS data of soaring bir
 Summary of the dataset 
 The comprehensive dataset consists of raw GPS data (Latitude, Longitude, and Altitude), smoothed flight trajectories, calculated velocities, as well as detected thermals, and detected gliding segments. Moreover, the daily average wind velocity was calculated from the drift of the thermals and used for airspeed estimation for the gliding phase of flight.  
 
-**Steps**
+##Steps
 1.	Understand and visualize the dataset.
 2.	Create glide polar from the data. 
 3.	Explore the thermal strength depending on the period of the day and the altitude. 
 4.	Check the variation in the radius of thermals and compare this with the thermal strength and the period of the day.
 5.	Find the bird’s bank angle in the thermal from the aerodynamic assumptions and investigate the change in bank angle depends on the thermal strength. 
 
-**Literature**
+##Literature
 1.	Ákos, Z., Nagy, M., & Vicsek, T. (2008). Comparing bird and human soaring strategies. Proceedings of the National Academy of Sciences, 105(11), 4139-4143.
 2.	Ákos, Z., Nagy, M., Leven, S., & Vicsek, T. (2010). Thermal soaring flight of birds and unmanned aerial vehicles. Bioinspiration & biomimetics, 5(4), 045003.
 3.	Pennycuick, C. J. (2008). Modelling the flying bird. Elsevier.
