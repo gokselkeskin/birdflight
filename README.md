@@ -9,7 +9,8 @@
 *Figure 2: A complete flight track of an individual Himalayan vulture from our dataset includes data from take-off to landing. The colour code indicates the bird's instantaneous vertical speed, with shades of yellow and red representing ascending flight and green and blue denoting descending flight.*
 
 This project involves experimenting with high-resolution GPS data of soaring birds, including falcons, eagles, and vultures, to analyse flight performance and behavioural differences among species. The primary objective is to explore the fixed-wing (non-flapping) flight performance of various bird species, with a focus on quantifying the gliding and thermalling components using GPS data. Another key goal is to investigate the influence of morphometry on the aerodynamics of bird flight. Additionally, you will be tasked with evaluating flight preferences, such as optimizing airspeed based on daily thermal strength. To complete this project, you will be expected to use Python and Flight 1.25 (Pennycuick, 2008) and follow the given literature. 
-Summary of the dataset 
+
+## Summary of the dataset 
 The comprehensive dataset consists of raw GPS data (Latitude, Longitude, and Altitude), smoothed flight trajectories, calculated velocities, as well as detected thermals, and detected gliding segments. Moreover, the daily average wind velocity was calculated from the drift of the thermals and used for airspeed estimation for the gliding phase of flight.  
 
 ## Steps
