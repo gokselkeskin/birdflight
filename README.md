@@ -16,6 +16,7 @@ Steps
 3.	Explore the thermal strength depending on the period of the day and the altitude. 
 4.	Check the variation in the radius of thermals and compare this with the thermal strength and the period of the day.
 5.	Find the bird’s bank angle in the thermal from the aerodynamic assumptions and investigate the change in bank angle depends on the thermal strength. 
+
 Literature
 1.	Ákos, Z., Nagy, M., & Vicsek, T. (2008). Comparing bird and human soaring strategies. Proceedings of the National Academy of Sciences, 105(11), 4139-4143.
 2.	Ákos, Z., Nagy, M., Leven, S., & Vicsek, T. (2010). Thermal soaring flight of birds and unmanned aerial vehicles. Bioinspiration & biomimetics, 5(4), 045003.
