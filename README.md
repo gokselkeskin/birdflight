@@ -4,6 +4,7 @@
  ![Figure1](https://github.com/gokselkeskin/birdflight/assets/93776253/2f4d8533-0f3d-4afe-ae12-a3e67e2fea89)
 
 *Figure 1: Soaring birds rely on atmospheric updrafts, primarily known as thermals, to gain altitude (A). Subsequently, they utilize this gained height to cover distances without flapping their wings, a technique referred to as gliding (B), until they encounter the next thermal.* 
+
  ![Figure2](https://github.com/gokselkeskin/birdflight/assets/93776253/b7f1d685-22c0-4d98-98fd-b286ca325330)
 
 *Figure 2: A complete flight track of an individual Himalayan vulture from our dataset includes data from take-off to landing. The colour code indicates the bird's instantaneous vertical speed, with shades of yellow and red representing ascending flight and green and blue denoting descending flight.*
