@@ -26,3 +26,4 @@ The comprehensive dataset consists of raw GPS data (Latitude, Longitude, and Alt
 2.	Ákos, Z., Nagy, M., Leven, S., & Vicsek, T. (2010). Thermal soaring flight of birds and unmanned aerial vehicles. Bioinspiration & biomimetics, 5(4), 045003.
 3.	Pennycuick, C. J. (2008). Modelling the flying bird. Elsevier.
 4.	Anderson, J. D. (1999). Aircraft performance and design.
+5.	Kano, F., Naik, H., Keskin, G., Couzin, I. D., & Nagy, M. (2022). Head-tracking of freely-behaving pigeons in a motion-capture system reveals the selective use of visual field regions. Scientific Reports, 12(1), 19113.
